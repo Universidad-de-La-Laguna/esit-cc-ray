@@ -1,12 +1,15 @@
 # esit-cc-ray
-Repositorio sobre el uso de la tecnología ray.io. 
 
-A propuesta del profesor Marcos Colebrook, PhD se crea un ejemplo de uso de la tecnología ray.io en las sala del centro de cálculo de la ESIT.
+Repository on the use of Ray technology.
 
-- Crear cluster con tecnología ray
-- Instalar un LLM
-- Rentrenar LLM
-- Uso de ray en grafos
+This project, proposed by Professor Marcos Colebrook, PhD, showcases the use of Ray in the ESIT Computing Center.
+
+Objectives
+
+* Set up a cluster using Ray technology
+* Install a Large Language Model (LLM)
+* Retrain an LLM (fine-tunnig)
+* Apply Ray to graph processing
 
 
 # Referencia
